@@ -1,0 +1,6 @@
+{
+  "name": "LeadFlow AI - Automated Lead Follow-Up & Qualification",
+  "description": "Premium AI lead automation and follow-up agency system for clinics, gyms, coaching institutes, and local service businesses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
